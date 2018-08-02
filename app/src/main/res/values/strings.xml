@@ -1,11 +1,13 @@
 <resources>
-    <string name="app_name">SmallBusiness</string>
+    <string name="app_name">OCTOPUS</string>
     <string name="bar">barcode</string>
-    <string name="name">OCTOPUS</string>
-    <string name="detail">A startup</string>
-    <string name="date">2018.07.05</string>
-    <string name="address">South Nanming District, Guiyang, China</string>
-    <string name="hours">1:00PM</string>
+    <string name="name">OCTOPUS. BAR</string>
+    <string name="detail">OFFERING:\nbeer,\ncocktail,\nsnacks,\nboard games,\nand movies!</string>
+    <string name="detailL">OFFERING:\nbeer,cocktail,\nsnacks,board games,\nand movies!</string>
+    <string name="date">SINCE:\n2018.07.05</string>
+    <string name="address_label">Address:</string>
+    <string name="address">South Zone A, Huaguoyuan\nNanming District,\nGuiyang, China</string>
+    <string name="hours">HOURS:\n5:00 P.M.\n- 3:00 A.M.</string>
     <string name="contact">Tel: (+86)133 1221 1344</string>
-    <string name="barcode_label">Or scan QR Code -></string>
+    <string name="barcode_label">Or scan QR Code ---></string>
 </resources>
