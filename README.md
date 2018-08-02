@@ -1,6 +1,12 @@
 # Mobile Application Design and Implementation (Small Business)
 
+A simple app for a real bar is implemented for android system. Following is the list of all files uploaded:
 
+- The executable .apk file: install.apk (located under main branch)
+- A demonstration video: demo.mp4 (located under main branch)
+- All the source code and image files to support the app
+
+Note: The demo video navigated the app on an android phone with both vertical and landscape modes. Note that the app will navigate to googlemap app when clicking on a botton, since I recorded the video on my own smartphone, the google map app on my phone is in Chinese. The video showed a Chinese version of map, which should be in English if the googlemap version is in English on other phones.
 
 # - Requirements
 
