@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmallBusiness</string>
+    <string name="bar">barcode</string>
+    <string name="name">OCTOPUS</string>
+    <string name="detail">A startup</string>
+    <string name="date">2018.07.05</string>
+    <string name="address">South Nanming District, Guiyang, China</string>
+    <string name="hours">1:00PM</string>
+    <string name="contact">Tel: (+86)133 1221 1344</string>
+    <string name="barcode_label">Or scan QR Code -></string>
+</resources>
